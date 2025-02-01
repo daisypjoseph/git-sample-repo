@@ -9,23 +9,16 @@ git commit -m ""
 git log
 git push -u origin main -> to push code to main branch 
 Git diff <filename>
+----------------------------------------
 
+Text for privatebranch 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Scenario 1
+Scenario 2
+Scenario 3
 
 -------------------------------------------------------
 Private branch 2 Flow diagram
 ---------Main Branch------------Release-----------
 ---------------------------------------------------------
+
