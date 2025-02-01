@@ -7,4 +7,5 @@ git config user.email "daisypjoseph@yahoo.in"
 git add -> To add to the Git Repository
 git commit -m ""
 git log
+git push -u origin main -> to push code to main branch 
 Git diff <filename>
